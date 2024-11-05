@@ -1,0 +1,28 @@
+{
+  "name": "TimeBased",
+  "address": "0x9cb6be60ce55bbb426dbc1938dc9e94b9298ccd7",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "count",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "counter",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "filePath": "Chainlink testing/TimeBased.sol",
+  "pinnedAt": 1730682370690
+}

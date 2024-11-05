@@ -1,0 +1,34 @@
+{
+  "name": "Client",
+  "address": "0xddaAd340b0f1Ef65169Ae5E41A8b10776a75482d",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "EVM_EXTRA_ARGS_V1_TAG",
+      "outputs": [
+        {
+          "internalType": "bytes4",
+          "name": "",
+          "type": "bytes4"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "EVM_EXTRA_ARGS_V2_TAG",
+      "outputs": [
+        {
+          "internalType": "bytes4",
+          "name": "",
+          "type": "bytes4"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "filePath": "Chainlink testing/.deps/npm/@chainlink/contracts-ccip@1.5.0/src/v0.8/ccip/libraries/Client.sol",
+  "pinnedAt": 1730785604780
+}
